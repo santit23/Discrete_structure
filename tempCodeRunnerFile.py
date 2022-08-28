@@ -1,0 +1,1 @@
+int(math.gcd(x, y)
